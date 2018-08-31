@@ -1,5 +1,7 @@
 hello. Here is a trivial change.
 
+THIS IS  A MAJOR CHANGE
+
 Adding another line...
 
 Olivier I love you
