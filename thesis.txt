@@ -3,3 +3,7 @@ hello. Here is a trivial change.
 Adding another line...
 
 Olivier I love you
+
+But I also hate you
+
+I don't know what to do
